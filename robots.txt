@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://jaiyeijie.hollywoodsoccerclub.org/sitemap.xml
